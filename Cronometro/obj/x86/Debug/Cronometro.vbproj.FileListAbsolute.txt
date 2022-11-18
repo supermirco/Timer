@@ -1,0 +1,23 @@
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Cronometro\bin\Debug\Cronometro.xml
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Cronometro\obj\x86\Debug\Cronometro.Form1.resources
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Cronometro\obj\x86\Debug\Cronometro.Resources.resources
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Cronometro\obj\x86\Debug\Cronometro.vbproj.GenerateResource.Cache
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Cronometro\obj\x86\Debug\Cronometro.exe
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Cronometro\obj\x86\Debug\Cronometro.xml
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\Cronometro\obj\x86\Debug\Cronometro.pdb
+E:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.exe
+E:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.xml
+E:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.pdb
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\bin\Debug\Cronometro.xml
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.vbproj.AssemblyReference.cache
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Form1.resources
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.Resources.resources
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.vbproj.GenerateResource.cache
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.vbproj.CoreCompileInputs.cache
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.exe
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.xml
+J:\Galvani_2022-2023\Informatica\VB\Cronometro\Cronometro\obj\x86\Debug\Cronometro.pdb
